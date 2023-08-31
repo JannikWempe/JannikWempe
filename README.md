@@ -50,3 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#128](https://github.com/axiomhq/next-axiom/issues/128) in [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom)
+2. 🗣 Commented on [#341](https://github.com/vercel/edge-runtime/issues/341) in [vercel/edge-runtime](https://github.com/vercel/edge-runtime)
+3. 🗣 Commented on [#50492](https://github.com/vercel/next.js/issues/50492) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#107](https://github.com/axiomhq/next-axiom/issues/107) in [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom)
+<!--END_SECTION:activity-->
