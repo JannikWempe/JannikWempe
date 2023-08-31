@@ -1,0 +1,21 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    # 5:30 and 17:30 every day
+    - cron: '30 5,17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    name: Update Posts
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: JannikWempe/github-latest-hashnode-posts@0.0.9
+        with:
+          HASHNODE_ACCESS_TOKEN: ${{ secrets.HASHNODE_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
