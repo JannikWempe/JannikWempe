@@ -3,6 +3,146 @@
 ## Latest Blog Posts
 
 <!-- HASHNODE_POSTS:START -->
+
+    <table>
+      
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>CI Checks: Ensuring Better Code Quality and Faster Deployment</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Crafting Superior APIs with Design Guidelines: Set Up For Success</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Resolving High Disk Space Utilization in MongoDB</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Simple Steps to Include CDK Diffs in GitHub PRs</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Keep parts of your GraphQL Introspection Query hidden</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Podcast Notes: Minimal Empires</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Create Your Personal, Pay-Per-Use ChatGPT Client in Minutes</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>You Have Fucked Up! How to git revert?</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>How To Use GitHub Actions for Deployments When Following Trunk-Based Development</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Enterprise Integration Patterns - Domain Observability</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Enterprise Integration Patterns - Domain Event Design</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Enterprise Integration Patterns with Serverless and CDK</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Handling Step Function Task Tokens failures with CDK</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        ,
+        <tr>
+          <td><img src="undefined" width="500" height="auto" /></td>
+          <td>
+            <sup>undefined</sup><br />
+            <b>Using Step Function Task Tokens with CDK</b>
+            <p>undefined</p>
+          </td>
+        </tr>
+        
+    </table>
+  
 [
   {
     "id": "64d492016f3feecb8702c3b4",
