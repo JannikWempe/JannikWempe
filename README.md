@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694873897921/51063ecb-2e70-4e0f-b467-ef9f76470c6a.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2023-09-19T07:00:12.100Z</sup><br />
+				<b>How To Use Different Git Configs</b>
+				<p>A lot of us are coding for an employee and privately or as a freelancer for multiple companies. You might want to associate commits for the different projects with a different user (e.g. email) or sign them differently (I think you should). While you...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692431209248/be1eb663-95a1-4e4c-a020-0016709134c5.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2023-08-19T07:49:14.318Z</sup><br />
@@ -34,14 +42,6 @@
 				<sup>2022-12-14T06:14:41.385Z</sup><br />
 				<b>How To Use GitHub Actions for Deployments When Following Trunk-Based Development</b>
 				<p>Nowadays trunk-based development as a branching model is preferred compared to something like Git Flow. But creating a CI/CD pipeline is more challenging since we deploy to every environment from the same branch. In this post, I create a CI/CD pipeli...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667127130481/ibn1OU0_N.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2022-10-30T10:40:11.057Z</sup><br />
-				<b>My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen</b>
-				<p>EDIT (2022-10-31): Just one day after publishing this post, there is a huge announcement: Remix joins Shopify and Hydrogen v2 will be leveraging Remix. Also, there is a great thread on Twitter about design mistakes being made in Hydrogen v1: https://...</p>
 			</td>
 		</tr>
 </table>
