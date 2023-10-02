@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696167313472/e0dfab37-2821-487e-9f34-b2ee86d631fc.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2023-10-02T14:00:12.063Z</sup><br />
+				<b>Podcast Notes: Happy Bootstrapping</b>
+				<p>💁 I will update this post if I have notes for new episodes.   By Andreas Lehr (🇩🇪) who is the founder of We Manage and also runs a newsletter allesnurgecloud.  My name is Andreas Lehr and in this podcast, I interview different entrepreneurs every ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694873897921/51063ecb-2e70-4e0f-b467-ef9f76470c6a.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2023-09-19T07:00:12.100Z</sup><br />
@@ -34,14 +42,6 @@
 				<sup>2023-01-25T19:57:02.440Z</sup><br />
 				<b>You Have Fucked Up! How to git revert?</b>
 				<p>You have messed up production. All hell broke loose. What to do now? Fix it as fast as possible and undo the last change that made everything fall apart to unblock further deployments. Fix Production Fast First of all, it is a good idea to get back t...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670998381200/knD6Ik8oS.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2022-12-14T06:14:41.385Z</sup><br />
-				<b>How To Use GitHub Actions for Deployments When Following Trunk-Based Development</b>
-				<p>Nowadays trunk-based development as a branching model is preferred compared to something like Git Flow. But creating a CI/CD pipeline is more challenging since we deploy to every environment from the same branch. In this post, I create a CI/CD pipeli...</p>
 			</td>
 		</tr>
 </table>
