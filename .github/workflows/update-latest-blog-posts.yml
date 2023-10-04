@@ -21,6 +21,7 @@ jobs:
       - name: Update Posts
         uses: JannikWempe/github-latest-hashnode-posts@main
         with:
+          HASHNODE_GQL_ENDPOINT: https://jannik-sandbox.stellate.sh/
           HASHNODE_PUBLICATION_ID: 60841809fea38e52a9c5bd63
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
