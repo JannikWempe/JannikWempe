@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Update Posts
         uses: JannikWempe/github-latest-hashnode-posts@main
         with:

@@ -3,7 +3,7 @@ name: Update Recent Activity
 on:
   schedule:
     # 5:30 and 17:30 every day
-    - cron: "30 5,17 * * *"
+    - cron: '30 5,17 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     name: Update Activity
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Pin the version to the latest stable version.
       # If you want to live on edge, use 'master' branch.
