@@ -4,7 +4,10 @@ on:
   schedule:
     # 5:30 and 17:30 every day
     - cron: '30 5,17 * * *'
+
   workflow_dispatch:
+  # for trigger via webhooks
+  repository_dispatch:
 
 jobs:
   update-posts:
