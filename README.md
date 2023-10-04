@@ -5,43 +5,43 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674676741389/9ef44422-0a77-4afd-86c5-c1bdc78ca582.png" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958446673/FNjp5vVco.jpeg" width="500" height="auto" /></td>
 			<td>
-				<sup>2023-01-25T19:57:02.440Z</sup><br />
-				<b>You Have Fucked Up! How to git revert?</b>
-				<p>You have messed up production. All hell broke loose. What to do now? Fix it as fast as possible and undo the last change that made everything fall apart to unblock further deployments. Fix Production Fast First of all, it is a good idea to get back t...</p>
+				<sup>2023-10-04T07:00:03.115Z</sup><br />
+				<b>velit reprehenderit amet sit velit veniam</b>
+				<p>Ad voluptate ipsum esse ad veniam tempor velit esse laboris cupidatat Lorem adipisicing elit elit. Duis ea veniam mollit esse excepteur dolor enim ullamco consectetur exercitation occaecat ea elit officia do. Laboris proident ut et proident tempor et...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670998381200/knD6Ik8oS.png" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958446673/FNjp5vVco.jpeg" width="500" height="auto" /></td>
 			<td>
-				<sup>2022-12-14T06:14:41.385Z</sup><br />
-				<b>How To Use GitHub Actions for Deployments When Following Trunk-Based Development</b>
-				<p>Nowadays trunk-based development as a branching model is preferred compared to something like Git Flow. But creating a CI/CD pipeline is more challenging since we deploy to every environment from the same branch. In this post, I create a CI/CD pipeli...</p>
+				<sup>2023-09-18T15:13:21.088Z</sup><br />
+				<b>ipsum ex culpa excepteur esse nisi</b>
+				<p>Non excepteur elit voluptate enim dolore ullamco excepteur laborum. Non pariatur est ea sint nulla pariatur aliquip est proident labore Lorem nulla voluptate Lorem nostrud. Tempor ad tempor adipisicing anim enim enim eu nisi aute. Tempor nisi et ea n...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667127130481/ibn1OU0_N.png" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image-dev/stock/unsplash/n8Qb1ZAkK88/upload/0531a5ebc690695977a81eb96941523d.jpeg" width="500" height="auto" /></td>
 			<td>
-				<sup>2022-10-30T10:40:11.057Z</sup><br />
-				<b>My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen</b>
-				<p>EDIT (2022-10-31): Just one day after publishing this post, there is a huge announcement: Remix joins Shopify and Hydrogen v2 will be leveraging Remix. Also, there is a great thread on Twitter about design mistakes being made in Hydrogen v1: https://...</p>
+				<sup>2023-09-18T11:36:03.579Z</sup><br />
+				<b>sunt sunt consectetur sunt quis nostrud</b>
+				<p>Et id eiusmod reprehenderit ex excepteur. Velit id laborum pariatur sint sit enim sunt occaecat reprehenderit. Ullamco incididunt irure sit aliqua ut cupidatat duis incididunt aute nulla velit officia ullamco nisi. Laborum ex fugiat do elit officia a...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665376683242/AHPE0VPzz.png" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958064619/OZIlB7YIy.jpeg" width="500" height="auto" /></td>
 			<td>
-				<sup>2022-10-10T04:45:57.892Z</sup><br />
-				<b>How to Securely Use Secrets in AWS Lambda?</b>
-				<p>It is quite common to need a secret value of some kind in a Lambda function. Either for a database connection, a 3-rd party service, or whatever else. But how to securely use secrets in your Lambda?  In this post, I am going to tell you why environme...</p>
+				<sup>2023-09-18T08:02:30.432Z</sup><br />
+				<b>Lorem exercitation proident aliqua deserunt ad</b>
+				<p>Irure minim nulla pariatur aliqua duis ex non eu aute et cillum qui ea do. Id eu laboris duis sint magna nostrud cupidatat enim amet ad exercitation voluptate. Magna elit tempor aute aliqua nostrud et dolor. Laborum incididunt reprehenderit sint cupi...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664433023392/hqulxhQZs.png" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958446673/FNjp5vVco.jpeg" width="500" height="auto" /></td>
 			<td>
-				<sup>2022-09-29T06:31:28.390Z</sup><br />
-				<b>Mastering AWS CDK Aspects</b>
-				<p>CDK Aspects Introduction CDK Aspects are a powerful tool provided by the AWS Cloud Development Kit (CDK). They are utilizing the Visitor Pattern. By applying a CDK Aspect to a specific scope, you get access to every child node within it. You can insp...</p>
+				<sup>2023-09-11T11:32:29.632Z</sup><br />
+				<b>non nostrud magna laborum nulla laborum</b>
+				<p>Esse est aliquip non minim enim fugiat consectetur nostrud dolor veniam. Qui amet labore tempor exercitation ullamco laborum aliqua ut nulla ex amet. Consequat deserunt exercitation consequat laboris ad est aliqua anim enim. Sit Lorem consectetur ad ...</p>
 			</td>
 		</tr>
 </table>
