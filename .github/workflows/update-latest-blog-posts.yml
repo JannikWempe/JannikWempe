@@ -8,6 +8,7 @@ on:
   workflow_dispatch:
   # for trigger via webhooks
   repository_dispatch:
+    types: [trigger]
 
 jobs:
   update-posts:
