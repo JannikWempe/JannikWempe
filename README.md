@@ -5,43 +5,43 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958064619/OZIlB7YIy.jpeg" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696167313472/e0dfab37-2821-487e-9f34-b2ee86d631fc.png" width="500" height="auto" /></td>
 			<td>
-				<sup>2023-10-11T12:07:53.967Z</sup><br />
-				<b>consequat proident qui quis do exercitation</b>
-				<p>Fugiat et Lorem voluptate minim. Dolore aliquip anim minim incididunt quis laborum nostrud cillum do anim et magna. Deserunt pariatur quis exercitation duis nisi sunt commodo fugiat dolore voluptate cillum. Quis labore id id ad magna ad nisi culpa eu...</p>
+				<sup>2023-10-02T14:00:12.063Z</sup><br />
+				<b>Podcast Notes: Happy Bootstrapping</b>
+				<p>💁 I will update this post if I have notes for new episodes.   By Andreas Lehr (🇩🇪) who is the founder of We Manage and also runs a newsletter allesnurgecloud.  My name is Andreas Lehr and in this podcast, I interview different entrepreneurs every ...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958064619/OZIlB7YIy.jpeg" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694873897921/51063ecb-2e70-4e0f-b467-ef9f76470c6a.png" width="500" height="auto" /></td>
 			<td>
-				<sup>2023-10-10T15:28:17.146Z</sup><br />
-				<b>mollit2 occaecat consectetur et laborum voluptate</b>
-				<p>Dolore aliqua occaecat amet ad anim minim aute nisi adipisicing velit ea. Cupidatat nostrud dolor deserunt velit commodo qui deserunt dolor anim voluptate. Nostrud dolore elit reprehenderit voluptate commodo qui mollit. Et qui deserunt ex tempor comm...</p>
+				<sup>2023-09-19T07:00:12.100Z</sup><br />
+				<b>How To Use Different Git Configs</b>
+				<p>A lot of us are coding for an employee and privately or as a freelancer for multiple companies. You might want to associate commits for the different projects with a different user (e.g. email) or sign them differently (I think you should). While you...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958446673/FNjp5vVco.jpeg" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692431209248/be1eb663-95a1-4e4c-a020-0016709134c5.png" width="500" height="auto" /></td>
 			<td>
-				<sup>2023-10-10T06:15:19.391Z</sup><br />
-				<b>reprehenderit ad reprehenderit quis ipsum commodos</b>
-				<p>Cillum officia aute id. In cillum veniam qui exercitation minim et amet enim ex. Incididunt do exercitation enim mollit ut elit minim amet do proident magna nisi sunt velit. Ex anim aute magna eu id. Sit id fugiat ullamco in. Cupidatat velit ullamco ...</p>
+				<sup>2023-08-19T07:49:14.318Z</sup><br />
+				<b>Podcast Notes: Minimal Empires</b>
+				<p>💁 I will update this post if I have notes for new episodes.   By Sumit Kumar who is the founder of Parqet and has previously worked at Stripe.  Today, all it takes is the internet to build a business empire that completely changes our lives - we jus...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958446673/FNjp5vVco.jpeg" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682847180351/28c62519-991c-4ad9-9338-b0433a524e07.png" width="500" height="auto" /></td>
 			<td>
-				<sup>2023-10-09T14:28:45.470Z</sup><br />
-				<b>ad adipisicing est quis esse consequat</b>
-				<p>Labore ex labore ea ex in tempor amet exercitation aliquip. In ad sit ipsum nisi veniam enim ad nostrud. Adipisicing fugiat dolore cillum est labore. Eiusmod duis minim deserunt labore duis nisi cillum do fugiat irure tempor anim ut. Mollit excepteur...</p>
+				<sup>2023-04-30T09:37:37.965Z</sup><br />
+				<b>Create Your Personal, Pay-Per-Use ChatGPT Client in Minutes</b>
+				<p>I was hesitant to purchase ChatGPT Pro. While I often use ChatGPT, the $20 per month price tag seemed excessive for my needs. However, the slow response time and limited availability were frustrating. I appreciate the serverless, pay-per-use approach...</p>
 			</td>
 		</tr>
 <tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650958446673/FNjp5vVco.jpeg" width="500" height="auto" /></td>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674676741389/9ef44422-0a77-4afd-86c5-c1bdc78ca582.png" width="500" height="auto" /></td>
 			<td>
-				<sup>2023-10-05T12:22:40.130Z</sup><br />
-				<b>aliqua consectetur reprehenderit mollit qui consequat</b>
-				<p>Occaecat consectetur proident laboris fugiat cupidatat quis exercitation mollit sunt. Reprehenderit do minim sint. Eu occaecat nulla incididunt aliquip aliqua reprehenderit do deserunt commodo culpa officia dolore tempor. Laboris labore reprehenderit...</p>
+				<sup>2023-01-25T19:57:02.440Z</sup><br />
+				<b>You Have Fucked Up! How to git revert?</b>
+				<p>You have messed up production. All hell broke loose. What to do now? Fix it as fast as possible and undo the last change that made everything fall apart to unblock further deployments. Fix Production Fast First of all, it is a good idea to get back t...</p>
 			</td>
 		</tr>
 </table>
