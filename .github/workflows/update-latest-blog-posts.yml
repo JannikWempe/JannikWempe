@@ -1,10 +1,6 @@
 name: Update Latest Blog Posts
 
 on:
-  schedule:
-    # 5:30 and 17:30 every day
-    - cron: '30 5,17 * * *'
-
   workflow_dispatch:
   # for trigger via webhooks
   repository_dispatch:
@@ -21,8 +17,6 @@ jobs:
       - name: Update Posts
         uses: JannikWempe/github-latest-hashnode-posts@main
         with:
-          HASHNODE_GQL_ENDPOINT: https://jannik-sandbox.stellate.sh/
-          # 60841809fea38e52a9c5bd63 is prod
-          HASHNODE_PUBLICATION_ID: 64491129c1a7763ed2ffabd2
+          HASHNODE_PUBLICATION_ID: 60841809fea38e52a9c5bd63
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
