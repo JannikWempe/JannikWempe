@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#319](https://github.com/Shopify/shopify-app-template-remix/issues/319) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
-2. 🗣 Commented on [#56](https://github.com/confuser/graphql-constraint-directive/issues/56) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
-3. 🗣 Commented on [#50492](https://github.com/vercel/next.js/issues/50492) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Opened issue [#216](https://github.com/confuser/graphql-constraint-directive/issues/216) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
+2. 🗣 Commented on [#319](https://github.com/Shopify/shopify-app-template-remix/issues/319) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+3. 🗣 Commented on [#56](https://github.com/confuser/graphql-constraint-directive/issues/56) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
 4. 🗣 Commented on [#107](https://github.com/axiomhq/next-axiom/issues/107) in [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom)
 <!--END_SECTION:activity-->
