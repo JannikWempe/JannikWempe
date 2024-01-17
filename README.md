@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704437574187/ff08b475-57d7-4b11-89e5-60048e53016f.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2024-01-05T06:54:11.345Z</sup><br />
+				<b>My 2023 in Retrospective (Personal Live)</b>
+				<p>I intended to write about my personal live and my professional live in this post. But I have decided to split it up. There is so much to write about both of those and most of you are probably not interested in my personal stuff. So this post is only ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696167313472/e0dfab37-2821-487e-9f34-b2ee86d631fc.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2023-10-02T14:00:12.063Z</sup><br />
@@ -34,14 +42,6 @@
 				<sup>2023-04-30T09:37:37.965Z</sup><br />
 				<b>Create Your Personal, Pay-Per-Use ChatGPT Client in Minutes</b>
 				<p>I was hesitant to purchase ChatGPT Pro. While I often use ChatGPT, the $20 per month price tag seemed excessive for my needs. However, the slow response time and limited availability were frustrating. I appreciate the serverless, pay-per-use approach...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674676741389/9ef44422-0a77-4afd-86c5-c1bdc78ca582.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2023-01-25T19:57:02.440Z</sup><br />
-				<b>You Have Fucked Up! How to git revert?</b>
-				<p>You have messed up production. All hell broke loose. What to do now? Fix it as fast as possible and undo the last change that made everything fall apart to unblock further deployments. Fix Production Fast First of all, it is a good idea to get back t...</p>
 			</td>
 		</tr>
 </table>
