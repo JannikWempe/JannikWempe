@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705519211379/6efceea6-04fe-4e65-b0a9-886d3215dfde.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2024-01-17T19:23:41.759Z</sup><br />
+				<b>Different Node.js Versions and Package Managers Per Project – A Solved Problem</b>
+				<p>You work on different projects, maybe in different teams, or just on older and newer personal projects. Chances are you are using different Node.js versions and different package managers or package manager versions. You should be able to switch betw...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704437574187/ff08b475-57d7-4b11-89e5-60048e53016f.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2024-01-05T06:54:11.345Z</sup><br />
@@ -34,14 +42,6 @@
 				<sup>2023-08-19T07:49:14.318Z</sup><br />
 				<b>Podcast Notes: Minimal Empires</b>
 				<p>💁 I will update this post if I have notes for new episodes.   By Sumit Kumar who is the founder of Parqet and has previously worked at Stripe.  Today, all it takes is the internet to build a business empire that completely changes our lives - we jus...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682847180351/28c62519-991c-4ad9-9338-b0433a524e07.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2023-04-30T09:37:37.965Z</sup><br />
-				<b>Create Your Personal, Pay-Per-Use ChatGPT Client in Minutes</b>
-				<p>I was hesitant to purchase ChatGPT Pro. While I often use ChatGPT, the $20 per month price tag seemed excessive for my needs. However, the slow response time and limited availability were frustrating. I appreciate the serverless, pay-per-use approach...</p>
 			</td>
 		</tr>
 </table>
