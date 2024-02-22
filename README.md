@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-template-remix/issues/302) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
-2. ❗️ Opened issue [#216](https://github.com/confuser/graphql-constraint-directive/issues/216) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
-3. 🗣 Commented on [#319](https://github.com/Shopify/shopify-app-template-remix/issues/319) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+1. 🗣 Commented on [#4542](https://github.com/netlify/build/issues/4542) in [netlify/build](https://github.com/netlify/build)
+2. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-template-remix/issues/302) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+3. ❗️ Opened issue [#216](https://github.com/confuser/graphql-constraint-directive/issues/216) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
 4. 🗣 Commented on [#56](https://github.com/confuser/graphql-constraint-directive/issues/56) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
 <!--END_SECTION:activity-->
