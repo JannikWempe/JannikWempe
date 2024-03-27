@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Hashnode/umami/pull/6) in [Hashnode/umami](https://github.com/Hashnode/umami)
-2. 🗣 Commented on [#4542](https://github.com/netlify/build/issues/4542) in [netlify/build](https://github.com/netlify/build)
-3. ❗️ Opened issue [#216](https://github.com/confuser/graphql-constraint-directive/issues/216) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
+1. 💪 Opened PR [#111](https://github.com/Hashnode/starter-kit/pull/111) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+2. 💪 Opened PR [#6](https://github.com/Hashnode/umami/pull/6) in [Hashnode/umami](https://github.com/Hashnode/umami)
+3. 🗣 Commented on [#4542](https://github.com/netlify/build/issues/4542) in [netlify/build](https://github.com/netlify/build)
 4. 🗣 Commented on [#56](https://github.com/confuser/graphql-constraint-directive/issues/56) in [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive)
 <!--END_SECTION:activity-->
