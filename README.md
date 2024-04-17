@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/Hashnode/starter-kit/issues/103) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
-2. ❗️ Closed issue [#103](https://github.com/Hashnode/starter-kit/issues/103) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
-3. 🗣 Commented on [#113](https://github.com/Hashnode/starter-kit/issues/113) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
-4. ❗️ Closed issue [#113](https://github.com/Hashnode/starter-kit/issues/113) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+1. 🗣 Commented on [#319](https://github.com/Shopify/shopify-app-template-remix/issues/319) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+2. 🗣 Commented on [#103](https://github.com/Hashnode/starter-kit/issues/103) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+3. ❗️ Closed issue [#103](https://github.com/Hashnode/starter-kit/issues/103) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+4. 🗣 Commented on [#113](https://github.com/Hashnode/starter-kit/issues/113) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
 <!--END_SECTION:activity-->
