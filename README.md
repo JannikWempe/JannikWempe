@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/mindsdb/hashnode-starter-kit/pull/21) in [mindsdb/hashnode-starter-kit](https://github.com/mindsdb/hashnode-starter-kit)
-2. 🎉 Merged PR [#42](https://github.com/Hashnode/webembeds/pull/42) in [Hashnode/webembeds](https://github.com/Hashnode/webembeds)
-3. 💪 Opened PR [#42](https://github.com/Hashnode/webembeds/pull/42) in [Hashnode/webembeds](https://github.com/Hashnode/webembeds)
-4. 🗣 Commented on [#29409](https://github.com/aws/aws-cdk/issues/29409) in [aws/aws-cdk](https://github.com/aws/aws-cdk)
+1. 💪 Opened PR [#130](https://github.com/Hashnode/starter-kit/pull/130) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+2. 💪 Opened PR [#21](https://github.com/mindsdb/hashnode-starter-kit/pull/21) in [mindsdb/hashnode-starter-kit](https://github.com/mindsdb/hashnode-starter-kit)
+3. 🎉 Merged PR [#42](https://github.com/Hashnode/webembeds/pull/42) in [Hashnode/webembeds](https://github.com/Hashnode/webembeds)
+4. 💪 Opened PR [#42](https://github.com/Hashnode/webembeds/pull/42) in [Hashnode/webembeds](https://github.com/Hashnode/webembeds)
 <!--END_SECTION:activity-->
