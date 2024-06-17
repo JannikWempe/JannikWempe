@@ -50,8 +50,8 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Hashnode/umami/pull/8) in [Hashnode/umami](https://github.com/Hashnode/umami)
-2. 🎉 Merged PR [#7](https://github.com/Hashnode/umami/pull/7) in [Hashnode/umami](https://github.com/Hashnode/umami)
-3. 💪 Opened PR [#7](https://github.com/Hashnode/umami/pull/7) in [Hashnode/umami](https://github.com/Hashnode/umami)
-4. 🎉 Merged PR [#141](https://github.com/Hashnode/starter-kit/pull/141) in [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit)
+1. 🎉 Merged PR [#9](https://github.com/Hashnode/umami/pull/9) in [Hashnode/umami](https://github.com/Hashnode/umami)
+2. 💪 Opened PR [#9](https://github.com/Hashnode/umami/pull/9) in [Hashnode/umami](https://github.com/Hashnode/umami)
+3. 🎉 Merged PR [#8](https://github.com/Hashnode/umami/pull/8) in [Hashnode/umami](https://github.com/Hashnode/umami)
+4. 💪 Opened PR [#8](https://github.com/Hashnode/umami/pull/8) in [Hashnode/umami](https://github.com/Hashnode/umami)
 <!--END_SECTION:activity-->
