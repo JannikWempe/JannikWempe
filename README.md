@@ -47,7 +47,8 @@
 </table>
 <!-- HASHNODE_POSTS:END -->
 
-## Recent GitHub Activity
+## Recent Public GitHub Activity
+<em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/Hashnode/umami/pull/9) in [Hashnode/umami](https://github.com/Hashnode/umami)
