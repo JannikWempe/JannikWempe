@@ -5,6 +5,14 @@
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1726902836576/fb4cac0b-1912-4727-8586-1b65b9c20c92.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2024-09-23T15:00:29.937Z</sup><br />
+				<b>The Power of Community and Content: How I Got Hired at Hashnode</b>
+				<p>It's story time. I want to share a life-changing story with you. A few changes in my life opened up many doors for me, and I wouldn’t be where I am today without those – and I probably wouldn’t work at Hashnode. How It Started In late 2020, I came to...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705519211379/6efceea6-04fe-4e65-b0a9-886d3215dfde.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2024-01-17T19:23:41.759Z</sup><br />
@@ -34,14 +42,6 @@
 				<sup>2023-09-19T07:00:12.100Z</sup><br />
 				<b>How To Use Different Git Configs</b>
 				<p>A lot of us are coding for an employee and privately or as a freelancer for multiple companies. You might want to associate commits for the different projects with a different user (e.g. email) or sign them differently (I think you should). While you...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692431209248/be1eb663-95a1-4e4c-a020-0016709134c5.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2023-08-19T07:49:14.318Z</sup><br />
-				<b>Podcast Notes: Minimal Empires</b>
-				<p>💁 I will update this post if I have notes for new episodes.   By Sumit Kumar who is the founder of Parqet and has previously worked at Stripe.  Today, all it takes is the internet to build a business empire that completely changes our lives - we jus...</p>
 			</td>
 		</tr>
 </table>
