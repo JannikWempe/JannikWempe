@@ -51,7 +51,7 @@
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Hashnode/umami/pull/9) in [Hashnode/umami](https://github.com/Hashnode/umami)
+1. 🗣 Commented on [#11232](https://github.com/Shopify/polaris/issues/11232#issuecomment-2423586408) in [Shopify/polaris](https://github.com/Shopify/polaris)
 2. 💪 Opened PR [#9](https://github.com/Hashnode/umami/pull/9) in [Hashnode/umami](https://github.com/Hashnode/umami)
 3. 🎉 Merged PR [#8](https://github.com/Hashnode/umami/pull/8) in [Hashnode/umami](https://github.com/Hashnode/umami)
 4. 💪 Opened PR [#8](https://github.com/Hashnode/umami/pull/8) in [Hashnode/umami](https://github.com/Hashnode/umami)
