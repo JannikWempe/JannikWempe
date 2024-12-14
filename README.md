@@ -1,5 +1,7 @@
 # Hi 👋🏼
 
+Visit [my website 🔗](https://wempe.dev) to learn more about me.
+
 ## Latest Blog Posts
 
 <!-- HASHNODE_POSTS:START -->
