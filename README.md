@@ -7,6 +7,14 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734448327694/a94e4307-52a1-4595-a792-998e478a5a97.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2024-12-17T15:12:33.651Z</sup><br />
+				<b>Why and How to Use Snapshot Tests in AWS CDK</b>
+				<p>When I first encountered snapshot tests, I was skeptical. The concept seemed strange, and their benefits weren't immediately obvious. But after experiencing their value firsthand, I've become a convert – and here's why I think you should give them a ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1726902836576/fb4cac0b-1912-4727-8586-1b65b9c20c92.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2024-09-23T15:00:29.937Z</sup><br />
@@ -36,14 +44,6 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 				<sup>2023-10-02T14:00:12.063Z</sup><br />
 				<b>Podcast Notes: Happy Bootstrapping</b>
 				<p>💁 I will update this post if I have notes for new episodes.   By Andreas Lehr (🇩🇪) who is the founder of We Manage and also runs a newsletter allesnurgecloud.  My name is Andreas Lehr and in this podcast, I interview different entrepreneurs every ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694873897921/51063ecb-2e70-4e0f-b467-ef9f76470c6a.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2023-09-19T07:00:12.100Z</sup><br />
-				<b>How To Use Different Git Configs</b>
-				<p>A lot of us are coding for an employee and privately or as a freelancer for multiple companies. You might want to associate commits for the different projects with a different user (e.g. email) or sign them differently (I think you should). While you...</p>
 			</td>
 		</tr>
 </table>
