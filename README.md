@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/Shopify/shopify-app-template-remix/issues/429#issuecomment-2630282151) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
-2. 🗣 Commented on [#886](https://github.com/Shopify/shopify-app-template-remix/issues/886#issuecomment-2630267735) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
-3. 🗣 Commented on [#950](https://github.com/Shopify/shopify-app-template-remix/issues/950#issuecomment-2630260312) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
-4. 🗣 Commented on [#498](https://github.com/withastro/adapters/issues/498#issuecomment-2586827254) in [withastro/adapters](https://github.com/withastro/adapters)
+1. 🗣 Commented on [#140](https://github.com/forge-42/remix-hook-form/issues/140#issuecomment-2651500689) in [forge-42/remix-hook-form](https://github.com/forge-42/remix-hook-form)
+2. 🗣 Commented on [#429](https://github.com/Shopify/shopify-app-template-remix/issues/429#issuecomment-2630282151) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+3. 🗣 Commented on [#886](https://github.com/Shopify/shopify-app-template-remix/issues/886#issuecomment-2630267735) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+4. 🗣 Commented on [#950](https://github.com/Shopify/shopify-app-template-remix/issues/950#issuecomment-2630260312) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
 <!--END_SECTION:activity-->
