@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5460](https://github.com/sst/sst/pull/5460) in [sst/sst](https://github.com/sst/sst)
-2. 🗣 Commented on [#5460](https://github.com/sst/sst/pull/5460#issuecomment-2658864459) in [sst/sst](https://github.com/sst/sst)
-3. 💪 Opened PR [#5460](https://github.com/sst/sst/pull/5460) in [sst/sst](https://github.com/sst/sst)
-4. 🗣 Commented on [#140](https://github.com/forge-42/remix-hook-form/issues/140#issuecomment-2651500689) in [forge-42/remix-hook-form](https://github.com/forge-42/remix-hook-form)
+1. 🗣 Commented on [#5460](https://github.com/sst/sst/pull/5460#issuecomment-2661271254) in [sst/sst](https://github.com/sst/sst)
+2. ❌ Closed PR [#5460](https://github.com/sst/sst/pull/5460) in [sst/sst](https://github.com/sst/sst)
+3. 🗣 Commented on [#5460](https://github.com/sst/sst/pull/5460#issuecomment-2658864459) in [sst/sst](https://github.com/sst/sst)
+4. 💪 Opened PR [#5460](https://github.com/sst/sst/pull/5460) in [sst/sst](https://github.com/sst/sst)
 <!--END_SECTION:activity-->
