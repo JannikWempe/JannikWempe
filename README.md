@@ -7,6 +7,22 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1743399027018/a96d6a52-9ddf-4f57-8619-5430e784915c.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2025-03-31T05:30:38.342Z</sup><br />
+				<b>Keep Your Functions Clean & Focused: Context Provision with Node.js AsyncLocalStorage</b>
+				<p>You have probably heard of the SOLID principles in programming. By applying them to your codebase, you can create a solid (🤡) architecture that is both easy to maintain and extend. SOLID stands for:  Single Responsibility  Open/Closed  Liskov Substi...</p>
+			</td>
+		</tr>
+<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1736452390636/8a6d5a8f-a33a-4c76-91d1-1d830f92d289.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2025-01-09T19:54:39.868Z</sup><br />
+				<b>How I Passed the AWS Developer Associate Exam Twice – One Deep Dive and One Efficient Renewal</b>
+				<p>In January 2025, I renewed my AWS Developer Associate certification, which I first obtained in December 2020. My initial attempt resulted in a near-perfect score of 973/1000 – arguably higher than necessary to pass the exam, which is about 720. This ...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734448327694/a94e4307-52a1-4595-a792-998e478a5a97.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2024-12-17T15:12:33.651Z</sup><br />
@@ -28,22 +44,6 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 				<sup>2024-01-17T19:23:41.759Z</sup><br />
 				<b>Different Node.js Versions and Package Managers Per Project – A Solved Problem</b>
 				<p>You work on different projects, maybe in different teams, or just on older and newer personal projects. Chances are you are using different Node.js versions and different package managers or package manager versions. You should be able to switch betw...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704437574187/ff08b475-57d7-4b11-89e5-60048e53016f.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2024-01-05T06:54:11.345Z</sup><br />
-				<b>My 2023 in Retrospective (Personal Live)</b>
-				<p>I intended to write about my personal live and my professional live in this post. But I have decided to split it up. There is so much to write about both of those and most of you are probably not interested in my personal stuff. So this post is only ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696167313472/e0dfab37-2821-487e-9f34-b2ee86d631fc.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2023-10-02T14:00:12.063Z</sup><br />
-				<b>Podcast Notes: Happy Bootstrapping</b>
-				<p>💁 I will update this post if I have notes for new episodes.   By Andreas Lehr (🇩🇪) who is the founder of We Manage and also runs a newsletter allesnurgecloud.  My name is Andreas Lehr and in this podcast, I interview different entrepreneurs every ...</p>
 			</td>
 		</tr>
 </table>
