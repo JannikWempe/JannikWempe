@@ -53,7 +53,7 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17839](https://github.com/raycast/extensions/issues/17839#issuecomment-2727623953) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#470](https://github.com/taro-28/tanstack-table-search-params/issues/470#issuecomment-2834031120) in [taro-28/tanstack-table-search-params](https://github.com/taro-28/tanstack-table-search-params)
 2. 🗣 Commented on [#2](https://github.com/sst/astro-sst/pull/2#issuecomment-2689768710) in [sst/astro-sst](https://github.com/sst/astro-sst)
 3. 🗣 Commented on [#2](https://github.com/sst/astro-sst/pull/2#issuecomment-2674023244) in [sst/astro-sst](https://github.com/sst/astro-sst)
 4. 🗣 Commented on [#2](https://github.com/sst/astro-sst/pull/2#issuecomment-2673895210) in [sst/astro-sst](https://github.com/sst/astro-sst)
