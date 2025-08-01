@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2214](https://github.com/assistant-ui/assistant-ui/issues/2214) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-2. 🗣 Commented on [#895](https://github.com/Shopify/shopify-app-template-remix/issues/895#issuecomment-2888299235) in [Shopify/shopify-app-template-remix](https://github.com/Shopify/shopify-app-template-remix)
+1. 🗣 Commented on [#2214](https://github.com/assistant-ui/assistant-ui/issues/2214#issuecomment-3140681114) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+2. ❗ Opened issue [#2214](https://github.com/assistant-ui/assistant-ui/issues/2214) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
 3. 🗣 Commented on [#1154](https://github.com/Shopify/shopify-app-js/issues/1154#issuecomment-2888128272) in [Shopify/shopify-app-js](https://github.com/Shopify/shopify-app-js)
 4. 🗣 Commented on [#470](https://github.com/taro-28/tanstack-table-search-params/issues/470#issuecomment-2834031120) in [taro-28/tanstack-table-search-params](https://github.com/taro-28/tanstack-table-search-params)
 <!--END_SECTION:activity-->
