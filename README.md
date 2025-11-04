@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/JannikWempe/wempe.dev/pull/1#issuecomment-3460268603) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
-2. 💪 Opened PR [#1](undefined) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
-3. ❗ Opened issue [#2214](https://github.com/assistant-ui/assistant-ui/issues/2214) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+1. 🗣 Commented on [#1154](https://github.com/Shopify/shopify-app-js/issues/1154#issuecomment-3484183402) in [Shopify/shopify-app-js](https://github.com/Shopify/shopify-app-js)
+2. 🗣 Commented on [#1](https://github.com/JannikWempe/wempe.dev/pull/1#issuecomment-3460268603) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+3. 💪 Opened PR [#1](undefined) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
 4. 🗣 Commented on [#470](https://github.com/taro-28/tanstack-table-search-params/issues/470#issuecomment-2834031120) in [taro-28/tanstack-table-search-params](https://github.com/taro-28/tanstack-table-search-params)
 <!--END_SECTION:activity-->
