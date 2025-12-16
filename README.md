@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/folke/sidekick.nvim/issues/207#issuecomment-3581070062) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
-2. ❗ Opened issue [#207](https://github.com/folke/sidekick.nvim/issues/207) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
-3.  Labeled issue [#207](https://github.com/folke/sidekick.nvim/issues/207) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
-4. 🗣 Commented on [#3919](https://github.com/colinhacks/zod/issues/3919#issuecomment-3546623034) in [colinhacks/zod](https://github.com/colinhacks/zod)
+1. ❌ Merged PR [#1](undefined) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+2. 🗣 Commented on [#207](https://github.com/folke/sidekick.nvim/issues/207#issuecomment-3581070062) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
+3. ❗ Opened issue [#207](https://github.com/folke/sidekick.nvim/issues/207) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
+4.  Labeled issue [#207](https://github.com/folke/sidekick.nvim/issues/207) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
 <!--END_SECTION:activity-->
