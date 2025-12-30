@@ -7,6 +7,30 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <!-- HASHNODE_POSTS:START -->
 <table>
 	<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1767100387971/ed9d25a1-ebff-4b66-afcc-6a870ccc6e52.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2025-12-30T13:14:38.712Z</sup><br />
+				<b>Taking the Leap: From Employee to Self-Employed</b>
+				<p>2025 was the year I finally quit being an employee. Here's how my first year of freelancing and building products went – spoiler: better than expected. Becoming My Own Boss(?) The 28th of February was my last day at Hashnode. I knew that about a mont...</p>
+			</td>
+		</tr>
+<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1749644252446/2fe362b8-46fb-4c0a-8346-5a6a916a4d0a.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2025-06-11T12:17:53.161Z</sup><br />
+				<b>Adjusting Shopify App Pricing: Impact on New vs. Existing Users</b>
+				<p>Sandro and I have considered changing the pricing of our Shopify app FraudFalcon. We want to focus more on Enterprise customers and offer free trials instead of a free plan. We asked ourselves how to change the pricing of our app. What would happen t...</p>
+			</td>
+		</tr>
+<tr>
+			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1744606955622/ada4fb62-9d3b-4f62-9825-2ba2ffa8b8f9.png" width="500" height="auto" /></td>
+			<td>
+				<sup>2025-04-14T05:06:07.817Z</sup><br />
+				<b>How to Proxy Plausible Analytics with SST and AWS CloudFront</b>
+				<p>If you're running a website or web app, you know how crucial analytics are. There are several privacy-focused analytics tools out there (like Plausible Analytics and Fathom) that offer a great way to understand your visitors. I personally use Plausib...</p>
+			</td>
+		</tr>
+<tr>
 			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1743399027018/a96d6a52-9ddf-4f57-8619-5430e784915c.png" width="500" height="auto" /></td>
 			<td>
 				<sup>2025-03-31T05:30:38.342Z</sup><br />
@@ -20,30 +44,6 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 				<sup>2025-01-09T19:54:39.868Z</sup><br />
 				<b>How I Passed the AWS Developer Associate Exam Twice – One Deep Dive and One Efficient Renewal</b>
 				<p>In January 2025, I renewed my AWS Developer Associate certification, which I first obtained in December 2020. My initial attempt resulted in a near-perfect score of 973/1000 – arguably higher than necessary to pass the exam, which is about 720. This ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734448327694/a94e4307-52a1-4595-a792-998e478a5a97.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2024-12-17T15:12:33.651Z</sup><br />
-				<b>Why and How to Use Snapshot Tests in AWS CDK</b>
-				<p>When I first encountered snapshot tests, I was skeptical. The concept seemed strange, and their benefits weren't immediately obvious. But after experiencing their value firsthand, I've become a convert – and here's why I think you should give them a ...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1726902836576/fb4cac0b-1912-4727-8586-1b65b9c20c92.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2024-09-23T15:00:29.937Z</sup><br />
-				<b>The Power of Community and Content: How I Got Hired at Hashnode</b>
-				<p>It's story time. I want to share a life-changing story with you. A few changes in my life opened up many doors for me, and I wouldn’t be where I am today without those – and I probably wouldn’t work at Hashnode. How It Started In late 2020, I came to...</p>
-			</td>
-		</tr>
-<tr>
-			<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705519211379/6efceea6-04fe-4e65-b0a9-886d3215dfde.png" width="500" height="auto" /></td>
-			<td>
-				<sup>2024-01-17T19:23:41.759Z</sup><br />
-				<b>Different Node.js Versions and Package Managers Per Project – A Solved Problem</b>
-				<p>You work on different projects, maybe in different teams, or just on older and newer personal projects. Chances are you are using different Node.js versions and different package managers or package manager versions. You should be able to switch betw...</p>
 			</td>
 		</tr>
 </table>
