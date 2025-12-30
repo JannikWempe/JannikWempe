@@ -18,5 +18,6 @@ jobs:
         uses: JannikWempe/github-latest-hashnode-posts@main
         with:
           HASHNODE_PUBLICATION_ID: 60841809fea38e52a9c5bd63
+          TITLES_AS_LINK: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
