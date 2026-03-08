@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. ❗ Opened issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. 🗣 Commented on [#179](https://github.com/tobi/qmd/pull/179#issuecomment-3907105481) in [tobi/qmd](https://github.com/tobi/qmd)
-4.  Labeled issue [#207](https://github.com/folke/sidekick.nvim/issues/207) in [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
+1. 🗣 Commented on [#6243](https://github.com/anomalyco/sst/pull/6243#issuecomment-4018617745) in [anomalyco/sst](https://github.com/anomalyco/sst)
+2. ℹ️ Labeled issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+3. ❗ Opened issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. 🗣 Commented on [#179](https://github.com/tobi/qmd/pull/179#issuecomment-3907105481) in [tobi/qmd](https://github.com/tobi/qmd)
 <!--END_SECTION:activity-->
