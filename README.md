@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6243](https://github.com/anomalyco/sst/pull/6243#issuecomment-4018617745) in [anomalyco/sst](https://github.com/anomalyco/sst)
-2. ℹ️ Labeled issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ❗ Opened issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. 🗣 Commented on [#179](https://github.com/tobi/qmd/pull/179#issuecomment-3907105481) in [tobi/qmd](https://github.com/tobi/qmd)
+1. 🔒 Closed issue [#8](https://github.com/JannikWempe/wempe.dev/issues/8) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+2. 🔒 Closed issue [#7](https://github.com/JannikWempe/wempe.dev/issues/7) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+3. 🔒 Closed issue [#6](https://github.com/JannikWempe/wempe.dev/issues/6) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+4. 🗣 Commented on [#6](https://github.com/JannikWempe/wempe.dev/issues/6#issuecomment-4077326744) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
 <!--END_SECTION:activity-->
