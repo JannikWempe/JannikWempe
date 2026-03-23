@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/JannikWempe/wempe.dev/issues/8) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
-2. 🔒 Closed issue [#7](https://github.com/JannikWempe/wempe.dev/issues/7) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
-3. 🔒 Closed issue [#6](https://github.com/JannikWempe/wempe.dev/issues/6) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
-4. 🗣 Commented on [#6](https://github.com/JannikWempe/wempe.dev/issues/6#issuecomment-4077326744) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+1. 🎉 Merged PR [#2](https://github.com/JannikWempe/mcp-lexware-office/pull/2) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+2. 🔒 Closed issue [#8](https://github.com/JannikWempe/wempe.dev/issues/8) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+3. 🔒 Closed issue [#7](https://github.com/JannikWempe/wempe.dev/issues/7) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
+4. 🔒 Closed issue [#6](https://github.com/JannikWempe/wempe.dev/issues/6) in [JannikWempe/wempe.dev](https://github.com/JannikWempe/wempe.dev)
 <!--END_SECTION:activity-->
