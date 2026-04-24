@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/JannikWempe/mcp-lexware-office/issues/1) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-2. 🎉 Merged PR [#2](https://github.com/JannikWempe/mcp-lexware-office/pull/2) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-3. ℹ️ Labeled issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 🗣 Commented on [#49510](https://github.com/anthropics/claude-code/issues/49510#issuecomment-4313370768) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🗣 Commented on [#2371](https://github.com/manaflow-ai/cmux/pull/2371#issuecomment-4311431451) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+3. 🔒 Closed issue [#1](https://github.com/JannikWempe/mcp-lexware-office/issues/1) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
 4. ❗ Opened issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
