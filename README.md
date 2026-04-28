@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49510](https://github.com/anthropics/claude-code/issues/49510#issuecomment-4313370768) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. 🗣 Commented on [#2371](https://github.com/manaflow-ai/cmux/pull/2371#issuecomment-4311431451) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-3. 🔒 Closed issue [#1](https://github.com/JannikWempe/mcp-lexware-office/issues/1) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-4. ❗ Opened issue [#16309](https://github.com/anomalyco/opencode/issues/16309) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 🗣 Commented on [#3191](https://github.com/manaflow-ai/cmux/issues/3191#issuecomment-4333643882) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+2. 🗣 Commented on [#49510](https://github.com/anthropics/claude-code/issues/49510#issuecomment-4313370768) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. 🗣 Commented on [#2371](https://github.com/manaflow-ai/cmux/pull/2371#issuecomment-4311431451) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+4. 🔒 Closed issue [#1](https://github.com/JannikWempe/mcp-lexware-office/issues/1) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
 <!--END_SECTION:activity-->
