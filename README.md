@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/JannikWempe/mcp-lexware-office/issues/9) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-2. ❗ Opened issue [#338](https://github.com/modem-dev/hunk/issues/338) in [modem-dev/hunk](https://github.com/modem-dev/hunk)
-3. 🗣 Commented on [#49510](https://github.com/anthropics/claude-code/issues/49510#issuecomment-4313370768) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 💪 Opened PR [#10](https://github.com/JannikWempe/mcp-lexware-office/pull/10) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+2. 🔒 Closed issue [#9](https://github.com/JannikWempe/mcp-lexware-office/issues/9) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+3. ❗ Opened issue [#338](https://github.com/modem-dev/hunk/issues/338) in [modem-dev/hunk](https://github.com/modem-dev/hunk)
 4. 🗣 Commented on [#2371](https://github.com/manaflow-ai/cmux/pull/2371#issuecomment-4311431451) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 <!--END_SECTION:activity-->
