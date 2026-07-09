@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/JannikWempe/mcp-lexware-office/pull/10) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-2. 💪 Opened PR [#10](https://github.com/JannikWempe/mcp-lexware-office/pull/10) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-3. 🔒 Closed issue [#9](https://github.com/JannikWempe/mcp-lexware-office/issues/9) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-4. ❗ Opened issue [#338](https://github.com/modem-dev/hunk/issues/338) in [modem-dev/hunk](https://github.com/modem-dev/hunk)
+1. ❌ Closed PR [#12](https://github.com/JannikWempe/mcp-lexware-office/pull/12) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+2. 🗣 Commented on [#12](https://github.com/JannikWempe/mcp-lexware-office/pull/12#issuecomment-4922391010) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+3. 🎉 Merged PR [#10](https://github.com/JannikWempe/mcp-lexware-office/pull/10) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+4. 💪 Opened PR [#10](https://github.com/JannikWempe/mcp-lexware-office/pull/10) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
 <!--END_SECTION:activity-->
