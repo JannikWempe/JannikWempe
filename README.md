@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10281](https://github.com/earendil-works/pi/issues/10281) in [earendil-works/pi](https://github.com/earendil-works/pi)
-2. 🔒 Closed issue [#15](https://github.com/JannikWempe/mcp-lexware-office/issues/15) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-3. 🔓 Reopened issue [#15](https://github.com/JannikWempe/mcp-lexware-office/issues/15) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+1. 🗣 Commented on [#10281](https://github.com/earendil-works/pi/issues/10281#issuecomment-6094759451) in [earendil-works/pi](https://github.com/earendil-works/pi)
+2. ❗ Opened issue [#10281](https://github.com/earendil-works/pi/issues/10281) in [earendil-works/pi](https://github.com/earendil-works/pi)
+3. 🔒 Closed issue [#15](https://github.com/JannikWempe/mcp-lexware-office/issues/15) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
 4. 🗣 Commented on [#15](https://github.com/JannikWempe/mcp-lexware-office/issues/15#issuecomment-5015328662) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
 <!--END_SECTION:activity-->
