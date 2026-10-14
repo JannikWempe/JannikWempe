@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/JannikWempe/indexnow-submit-action/releases/tag/v1.1.0) in [JannikWempe/indexnow-submit-action](https://github.com/JannikWempe/indexnow-submit-action)
-2. 🚀 Published release [v1.0.0](https://github.com/JannikWempe/indexnow-submit-action/releases/tag/v1.0.0) in [JannikWempe/indexnow-submit-action](https://github.com/JannikWempe/indexnow-submit-action)
-3. 🚀 Published release [v1.0.3](https://github.com/JannikWempe/indexnow-submit-action/releases/tag/v1.0.3) in [JannikWempe/indexnow-submit-action](https://github.com/JannikWempe/indexnow-submit-action)
-4. 🚀 Published release [v1.0.2](https://github.com/JannikWempe/indexnow-submit-action/releases/tag/v1.0.2) in [JannikWempe/indexnow-submit-action](https://github.com/JannikWempe/indexnow-submit-action)
+1. 💪 Opened PR [#22](https://github.com/JannikWempe/mcp-lexware-office/pull/22) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+2. 🎉 Merged PR [#20](https://github.com/JannikWempe/mcp-lexware-office/pull/20) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+3. 💪 Opened PR [#20](https://github.com/JannikWempe/mcp-lexware-office/pull/20) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+4. 🚀 Published release [v1.1.0](https://github.com/JannikWempe/indexnow-submit-action/releases/tag/v1.1.0) in [JannikWempe/indexnow-submit-action](https://github.com/JannikWempe/indexnow-submit-action)
 <!--END_SECTION:activity-->
