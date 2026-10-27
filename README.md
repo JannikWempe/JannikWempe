@@ -53,8 +53,8 @@ Visit [my website 🔗](https://wempe.dev) to learn more about me.
 <em>Note: The vast majority of my daily work has to happen in private repositories. Those activities are not shown here.</em>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/JannikWempe/mcp-lexware-office/pull/26) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-2. 🎉 Merged PR [#24](https://github.com/JannikWempe/mcp-lexware-office/pull/24) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-3. 🎉 Merged PR [#22](https://github.com/JannikWempe/mcp-lexware-office/pull/22) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
-4. 💪 Opened PR [#26](https://github.com/JannikWempe/mcp-lexware-office/pull/26) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+1. 🗣 Commented on [#1444](https://github.com/robinebers/openusage/pull/1444#issuecomment-6436847536) in [robinebers/openusage](https://github.com/robinebers/openusage)
+2. 🗣 Commented on [#1420](https://github.com/robinebers/openusage/issues/1420#issuecomment-6436748494) in [robinebers/openusage](https://github.com/robinebers/openusage)
+3. 🎉 Merged PR [#26](https://github.com/JannikWempe/mcp-lexware-office/pull/26) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
+4. 🎉 Merged PR [#24](https://github.com/JannikWempe/mcp-lexware-office/pull/24) in [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office)
 <!--END_SECTION:activity-->
